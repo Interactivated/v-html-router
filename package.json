@@ -1,0 +1,13 @@
+{
+  "name": "@interactivated/vsf-html-router",
+  "version": "0.1.0",
+  "description": "v-html link router component for Vue Storefront",
+  "main": "index.ts",
+  "author": "Interactivated Ecommerce",
+  "license": "MIT",
+  "keywords": [
+    "external links",
+    "Vue Storefront",
+    "VueJS"
+  ]
+}
